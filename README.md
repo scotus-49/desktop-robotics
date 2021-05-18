@@ -1,3 +1,3 @@
 # desktop-robotics
 
-Experimenting and exploring robotics with Pybrics and Lego.
+Experimenting and exploring robotics with Pybricks and Lego.
