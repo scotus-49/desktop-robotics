@@ -1,3 +1,3 @@
 # desktop-robotics
 
-Experimenting and exploring robotics with Pybricks and Lego.
+Experimenting and exploring small-scale robotics with Micropython and Lego Robot Inventor.
